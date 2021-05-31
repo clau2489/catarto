@@ -458,8 +458,10 @@ a.readmore_bt {
 }
 
 nav.main-menu {
-	float: right;
-	margin-left: 0;
+    float: right;
+    margin-left: 0;
+    background-color: #6c757d;
+    padding-bottom: 2em;
 }
 
 .menu-area-main li:hover a,
@@ -2058,7 +2060,7 @@ margin-top: 20px;
 /** footer section **/
 
 .footer {
-	background: #1b1b1b;
+    background: #6c757d;
     padding-top: 70px;
 }
 ul.sociel {
@@ -2132,10 +2134,11 @@ ul.lik li a:hover {
 }
 
 .copyright p {
-	color: #023023;
-	font-size: 18px;
-	line-height: 22px;
-	text-align: center;
+    color: #111111;
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+    font-family: sans-serif;
 }
 
 .copyright a:hover {
@@ -2147,14 +2150,13 @@ ul.lik li a:hover {
     ener page css
 ---------------------------------------------------------------------*/
 .brand_color .titlepage h2 {
-	font-weight: bold;
-	font-size: 40px !important;
-	text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px !important;
+    text-transform: uppercase;
+    color: #ffc221;
 }
-
-
 .brand_color {
-     background-color: #ffc221;
+    background-color: #6c757d;
 }
 .brand_color .titlepage {
      margin-top: 70px;
@@ -2270,7 +2272,7 @@ text-align: center;
 
 
 
-.about {padding-top: 90px;}
+.about {padding-top: 90px; padding-bottom: 90px;}
 .about .about_box figure {margin: 0;}
 .about .about_box figure img {width: 100%;}
 .about .about_box h3 {color: #000; font-weight: bold; font-size: 30px; line-height: 35px;}

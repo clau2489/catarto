@@ -53,7 +53,7 @@
          </div>
 
          <div class="copyright">
-            <p>Copyright 2019 All Right Reserved By <a href="https://html.design/">Free html Templates</a></p>
+            <p>Copyright 2019 C.A.Ta.R.T.O. Cámara Argentina de Talleres de Revisión Técnica Obligatoria</p>
          </div>
 
       </div>

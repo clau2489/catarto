@@ -9,7 +9,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
    <!-- site metas -->
-   <title>C.A.T.Ar.T.O.</title>
+   <title>C.A.Ta.R.T.O.</title>
    <meta name="keywords" content="">
    <meta name="description" content="">
    <meta name="author" content="">
@@ -60,7 +60,7 @@
             </div>
             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                <div class="top-box">
-                  <p>Cámara Argentina de Talleres de Revisión Técnica </p>
+                  <p>Cámara Argentina de Talleres de Revisión Técnica Obligatoria</p>
                </div>
             </div>
          </div>
@@ -71,10 +71,7 @@
          <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col logo_section">
             <div class="full">
                <div class="center-desk">
-                  <a href="index.html">
-                     <h1 class="titulo-catarto">C.A.T.AR.T.O </h1>
-                     <h2 class="subtitulo-catarto">Cámara Argentina de Talleres de Revisión Técnica </h2>
-                  </a>
+                  <div class="logo"> <a href="index.html"><img src="images/logo.png" alt="logo"/></a> </div>
                </div>
             </div>
          </div>
@@ -85,7 +82,7 @@
                      <ul class="menu-area-main">
                         <li class="active"> <a href="index.php">Inicio</a> </li>
                         <li> <a href="about.php">Nosotros</a> </li>
-                        <li> <a href="product.html">Revisión Técnica</a> </li>
+                        <li> <a href="revision.php">Revisión Técnica</a> </li>
                         <li> <a href="blog.html"> Móviles ITV</a> </li>
                         <li> <a href="blog.html"> Talleres Asociados</a> </li>
                         <li> <a href="blog.html"> Seguridad Vial</a> </li>
